@@ -31,8 +31,8 @@ text = """
 {forename}
 {age} years old
 From {nat}
-{marks}
-Crime:{chargedFor}
+Mark: {marks}
+Crime: {chargedFor}
 Search by {chargedBy}
 """.format(
     name= data['name'],
